@@ -1,0 +1,1 @@
+export const FLASK_URL = 'http://localhost:5000'; // Replace with your actual Flask server URL
